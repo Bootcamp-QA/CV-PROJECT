@@ -1,2 +1,2 @@
 # CV-PROJECT
-CV Project website
+CV Project
