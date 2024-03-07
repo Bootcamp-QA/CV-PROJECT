@@ -1,13 +1,15 @@
 # CV-PROJECT
 This is a cv website.
+[PROJECT URL](https://githubproject.com)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## JIRA PROJECT
-This project is using JIRA tool for project management and defect traking following agile methodology SCRUM with 2 weeks´s SPRINTS.
 [JIRA AGILE CV PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
+This project is using JIRA tool for project management and defect traking following agile methodology SCRUM with 2 weeks´s SPRINTS.
+
 
 ## TEST STRATEGY
 This project is being tested using BDD Methodology. 
@@ -22,19 +24,21 @@ This project is being tested using BDD Methodology.
 
 ### STATIC TEST SONARQUBE
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Bootcamp-QA_CV-PROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Bootcamp-QA_CV-PROJECT)
+SonarQube Static Test Analisys Result.
 
 ### TEST PLAN
-Regression Test Plan of the project.
 [Regression Test Plan](/qa/regressiontestplan.pdf)
+Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE
-Functional BDD test coverage of the project.and live documentation
 [BDD Test Coverage](/qa/bddtestcoverage.pdf)
+Complete Functional BDD test coverage of the project.and live documentation
 
 
 ### TEST RESULTS
+Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf)
+* [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
 * [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
 
 #### Release version 1.2
