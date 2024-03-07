@@ -12,15 +12,21 @@ This project is using JIRA tool for project management and defect traking follow
 
 
 ## TEST STRATEGY
-This project is being tested using BDD Methodology. 
-1. Functional test scenarios are defined for each user story using Gherkin language using Test Management Tool Zephyr Scale for Jira.
-2.  Static Test is executed after each development change using SONARQUBE tool 
-3. Functional test scenarios are executed manually in Dektop and Mobile for each user story. Bugs found are created on JIRA and linked to the related user story and test scenario. Test results are saved using Zephyr scale.
-4. Regression test scenarios are executed manually in Desktop and Mobile at the end of each Sprint for Desktop and Mobile. Test results are saved using Zephyr scale.
-5. New release version is created at the end of each Sprint, including:
-- User stories completed.
-- Functional test results and bug reports.
-- Regression test results.
+This project adopts BDD Methodology for testing.
+
+1. Functional test scenarios are defined for each user story using the Gherkin language, facilitated by the Test Management Tool Zephyr Scale for Jira.
+
+2. After every development iteration, a Static Test is performed using the SONARQUBE tool to ensure code quality.
+
+3. Functional test scenarios are executed manually on both Desktop and Mobile platforms for each user story. Any encountered bugs are promptly logged on JIRA and linked to the respective user story and test scenario. Comprehensive test results are meticulously documented using Zephyr Scale.
+
+4. At the conclusion of each Sprint, regression test scenarios are manually executed on both Desktop and Mobile platforms. The outcomes of these tests are  recorded using Zephyr Scale.
+
+5. Upon completion of each Sprint, a new release version is crafted, encompassing:
+
+* Successfully completed user stories.
+* Detailed reports of functional test results and bug incidents.
+* Regression test outcomes.
 
 ### STATIC TEST SONARQUBE
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Bootcamp-QA_CV-PROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Bootcamp-QA_CV-PROJECT)
