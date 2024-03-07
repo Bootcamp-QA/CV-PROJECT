@@ -47,4 +47,4 @@ Functional BDD test coverage of the project.and live documentation
 
 ## AUTHOR
 Reyes Cuesta, QA Engineer
-![LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
