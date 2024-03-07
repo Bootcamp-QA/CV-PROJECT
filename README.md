@@ -14,7 +14,7 @@ This project is using JIRA tool for project management and defect traking follow
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
-1. Functional test scenarios are defined for each user story using the Gherkin language, facilitated by the Test Management Tool Zephyr Scale for Jira.
+1. Functional test scenarios are defined for each user story before development using the Gherkin language, facilitated by the Test Management Tool Zephyr Scale for Jira.
 
 2. After every development iteration, a Static Test is performed using the SONARQUBE tool to ensure code quality.
 
