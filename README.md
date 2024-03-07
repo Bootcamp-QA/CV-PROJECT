@@ -36,7 +36,7 @@ SonarQube Static Test Analisys Result.
 [Regression Test Plan](/qa/regressiontestplan.pdf)
 Complete Regression Test Plan of the project.
 
-### TEST COVERAGE
+### TEST COVERAGE AND LIVE DOCUMENTATION
 [BDD Test Coverage](/qa/bddtestcoverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
