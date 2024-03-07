@@ -2,8 +2,8 @@
 This is a cv website.
 
 ## BUILD WITH
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## JIRA PROJECT
 This project is using JIRA tool for project management and defect traking following agile methodology SCRUM with 2 weeks´s SPRINTS.
@@ -34,16 +34,16 @@ Functional BDD test coverage of the project.and live documentation
 
 ### TEST RESULTS
 #### Release version 1.1
-[Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf)
-[Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf)
+* [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
 
 #### Release version 1.2
-[Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
-[Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
+* [Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
 
 #### Release version 1.3
-[Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
-[Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
+* [Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
 
 ## AUTHOR
 Reyes Cuesta, QA Engineer
