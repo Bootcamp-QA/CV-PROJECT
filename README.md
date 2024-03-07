@@ -10,7 +10,9 @@ This is a cv website.
 [JIRA AGILE CV PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
 This project is using JIRA tool for project management and defect traking following agile methodology SCRUM with 2 weeks´s SPRINTS.
 
-
+## DEMO VIDEO
+This project includes a Demo Video of each functionallity developed.
+* [DEMO VIDEOS](/demovideos/)
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
