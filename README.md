@@ -2,8 +2,7 @@
 This is a cv website.
 
 ## BUILD WITH
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ## JIRA PROJECT
 This project is using JIRA tool for project management and defect traking following agile methodology SCRUM with 2 weeks´s SPRINTS.
 [JIRA AGILE CV PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
