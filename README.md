@@ -1,6 +1,6 @@
 # CV-PROJECT
 This is a cv website.
-[PROJECT URL](https://githubproject.com)
+[Reyes Cuesta CV Website](https://bootcamp-qa.github.io/CV-PROJECT/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +12,7 @@ This project is using JIRA tool for project management and defect traking follow
 
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
-* [DEMO VIDEOS](/demovideos/)
+* [DEMO VIDEOS](/demo/)
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
@@ -31,31 +31,27 @@ This project adopts BDD Methodology for testing.
 * Regression test outcomes.
 
 ### STATIC TEST SONARQUBE
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Bootcamp-QA_CV-PROJECT&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Bootcamp-QA_CV-PROJECT)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Bootcamp-QA_CV-PROJECT)](https://sonarcloud.io/summary/new_code?id=Bootcamp-QA_CV-PROJECT)
 SonarQube Static Test Analisys Result.
 
-### TEST PLAN
-[Regression Test Plan](/qa/regressiontestplan.pdf)
+### REGRESSION TEST PLAN
+[Regression Test Plan](/test-plans/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
-[BDD Test Coverage](/qa/bddtestcoverage.pdf)
+[BDD Test Coverage](/test-plans/functional-test-plan-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
 
 ### TEST RESULTS
 Functional and Regression test results and report for each project release.
 #### Release version 1.1
-* [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf) 
-* [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.1](/test-results/functional-test-results-and-bug-release-1.1.pdf) 
+* [Regression Test Results 1.1](/test-results/regression-test-results-release-1.1.pdf)
 
 #### Release version 1.2
-* [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
-* [Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
-
-#### Release version 1.3
-* [Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
-* [Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
+* [Functional Test Results and Bug Report 1.2](/test-results/functional-test-results-and-bug-release-1.2.pdf) 
+* [Regression Test Results 1.2](/test-results/regression-test-results-release-1.2.pdf)
 
 ## AUTHOR
 Reyes Cuesta, QA Engineer
